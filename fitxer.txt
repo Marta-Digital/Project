@@ -5,6 +5,10 @@ This is my firts html head.
 <body>
 This is my firts html file. I feel so happy!
 <strong>Este texto va en negrita.</strong>
+<<<<<<< HEAD
 <p style="color:red; font-size:50px">Conflicteando</p>
+=======
+<p style="color green"; font-size:50px">Creando un segundo conflicto</p>
+>>>>>>> 749a70a8ae90cefab0a4f33b347b9b40fb98b811
 </body>
 </html>
