@@ -6,6 +6,5 @@ This is my firts html head. I'ts really joyful.
 This is my firts html file. I feel so happy!
 <strong>Este texto va en negrita.</strong>
 <p style="color:green; font-size:100px">Creando un conflicto</p>
-
 </body>
 </html>
