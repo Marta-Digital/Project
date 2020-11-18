@@ -1,0 +1,10 @@
+<html>
+<head>
+This is my firts html head.
+</head>
+<body>
+This is my firts html file. I feel so happy!
+<strong>Este texto va en negrita.</strong>
+<p style="color:red; font-size:50px">Conflicteando</p>
+</body>
+</html>
